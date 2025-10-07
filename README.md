@@ -35,7 +35,7 @@ Data management project for a road transport company (Academic Year 2023-2024)
 ### Kanimy Tuto  
 - Collaborative platform for sharing everyday tips and advice  
 - Using Database
-  ![KanimyTuto](images/accueil.png)
+![KanimyTuto](images/accueil.png)
 
 ### CY-SHOP (C Project)  
 Flower shop application with client and employee interfaces:  
